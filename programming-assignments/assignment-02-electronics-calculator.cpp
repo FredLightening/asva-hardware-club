@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(){
+    //This code calculates the current and power from user inputs of voltage and resistance using Ohm's law and the power formula.
+    
     //Name variable declaration
     string name;
     //Voltage, current, resistance and power variable declaration
